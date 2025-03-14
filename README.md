@@ -14,7 +14,7 @@
 
 `data.table` provides a high-performance version of [base R](https://www.r-project.org/about.html)'s `data.frame` with syntax and feature enhancements for ease of use, convenience and programming speed.
 
-## Why `data.table`?
+## Why `data.table`? I don't care
 
 * concise syntax: fast to type, fast to read
 * fast speed
